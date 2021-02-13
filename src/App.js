@@ -21,7 +21,7 @@ class App extends Component{
     let filterdSearch=(this.state.searchText=='')?[...this.state.robots]:this.state.robots.filter(robot=>robot.name.toLowerCase().includes(this.state.searchText.toLowerCase()))  
     return(
       <div>
-        <h1 className="title">Robotox</h1>
+        <h1 className="title">Monster Robotox</h1>
         <Search changeText={this.changeText} />
         <CardList>
         {
