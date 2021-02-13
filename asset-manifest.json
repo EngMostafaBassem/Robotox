@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/robox/static/css/main.de704c1c.chunk.css",
+    "main.js": "/robox/static/js/main.24f72138.chunk.js",
+    "main.js.map": "/robox/static/js/main.24f72138.chunk.js.map",
+    "runtime-main.js": "/robox/static/js/runtime-main.72ee7231.js",
+    "runtime-main.js.map": "/robox/static/js/runtime-main.72ee7231.js.map",
+    "static/js/2.26204849.chunk.js": "/robox/static/js/2.26204849.chunk.js",
+    "static/js/2.26204849.chunk.js.map": "/robox/static/js/2.26204849.chunk.js.map",
+    "static/js/3.80fca582.chunk.js": "/robox/static/js/3.80fca582.chunk.js",
+    "static/js/3.80fca582.chunk.js.map": "/robox/static/js/3.80fca582.chunk.js.map",
+    "index.html": "/robox/index.html",
+    "static/css/main.de704c1c.chunk.css.map": "/robox/static/css/main.de704c1c.chunk.css.map",
+    "static/js/2.26204849.chunk.js.LICENSE.txt": "/robox/static/js/2.26204849.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72ee7231.js",
+    "static/js/2.26204849.chunk.js",
+    "static/css/main.de704c1c.chunk.css",
+    "static/js/main.24f72138.chunk.js"
+  ]
+}
