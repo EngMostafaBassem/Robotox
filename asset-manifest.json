@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Robotox/static/css/main.de704c1c.chunk.css",
-    "main.js": "/Robotox/static/js/main.24f72138.chunk.js",
-    "main.js.map": "/Robotox/static/js/main.24f72138.chunk.js.map",
+    "main.css": "/Robotox/static/css/main.d1493a50.chunk.css",
+    "main.js": "/Robotox/static/js/main.45359cdb.chunk.js",
+    "main.js.map": "/Robotox/static/js/main.45359cdb.chunk.js.map",
     "runtime-main.js": "/Robotox/static/js/runtime-main.30d56995.js",
     "runtime-main.js.map": "/Robotox/static/js/runtime-main.30d56995.js.map",
     "static/js/2.26204849.chunk.js": "/Robotox/static/js/2.26204849.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.80fca582.chunk.js": "/Robotox/static/js/3.80fca582.chunk.js",
     "static/js/3.80fca582.chunk.js.map": "/Robotox/static/js/3.80fca582.chunk.js.map",
     "index.html": "/Robotox/index.html",
-    "static/css/main.de704c1c.chunk.css.map": "/Robotox/static/css/main.de704c1c.chunk.css.map",
+    "static/css/main.d1493a50.chunk.css.map": "/Robotox/static/css/main.d1493a50.chunk.css.map",
     "static/js/2.26204849.chunk.js.LICENSE.txt": "/Robotox/static/js/2.26204849.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.30d56995.js",
     "static/js/2.26204849.chunk.js",
-    "static/css/main.de704c1c.chunk.css",
-    "static/js/main.24f72138.chunk.js"
+    "static/css/main.d1493a50.chunk.css",
+    "static/js/main.45359cdb.chunk.js"
   ]
 }
