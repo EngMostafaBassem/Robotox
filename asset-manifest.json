@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/robox/static/css/main.de704c1c.chunk.css",
-    "main.js": "/robox/static/js/main.24f72138.chunk.js",
-    "main.js.map": "/robox/static/js/main.24f72138.chunk.js.map",
-    "runtime-main.js": "/robox/static/js/runtime-main.72ee7231.js",
-    "runtime-main.js.map": "/robox/static/js/runtime-main.72ee7231.js.map",
-    "static/js/2.26204849.chunk.js": "/robox/static/js/2.26204849.chunk.js",
-    "static/js/2.26204849.chunk.js.map": "/robox/static/js/2.26204849.chunk.js.map",
-    "static/js/3.80fca582.chunk.js": "/robox/static/js/3.80fca582.chunk.js",
-    "static/js/3.80fca582.chunk.js.map": "/robox/static/js/3.80fca582.chunk.js.map",
-    "index.html": "/robox/index.html",
-    "static/css/main.de704c1c.chunk.css.map": "/robox/static/css/main.de704c1c.chunk.css.map",
-    "static/js/2.26204849.chunk.js.LICENSE.txt": "/robox/static/js/2.26204849.chunk.js.LICENSE.txt"
+    "main.css": "/Robotox/static/css/main.de704c1c.chunk.css",
+    "main.js": "/Robotox/static/js/main.24f72138.chunk.js",
+    "main.js.map": "/Robotox/static/js/main.24f72138.chunk.js.map",
+    "runtime-main.js": "/Robotox/static/js/runtime-main.30d56995.js",
+    "runtime-main.js.map": "/Robotox/static/js/runtime-main.30d56995.js.map",
+    "static/js/2.26204849.chunk.js": "/Robotox/static/js/2.26204849.chunk.js",
+    "static/js/2.26204849.chunk.js.map": "/Robotox/static/js/2.26204849.chunk.js.map",
+    "static/js/3.80fca582.chunk.js": "/Robotox/static/js/3.80fca582.chunk.js",
+    "static/js/3.80fca582.chunk.js.map": "/Robotox/static/js/3.80fca582.chunk.js.map",
+    "index.html": "/Robotox/index.html",
+    "static/css/main.de704c1c.chunk.css.map": "/Robotox/static/css/main.de704c1c.chunk.css.map",
+    "static/js/2.26204849.chunk.js.LICENSE.txt": "/Robotox/static/js/2.26204849.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.72ee7231.js",
+    "static/js/runtime-main.30d56995.js",
     "static/js/2.26204849.chunk.js",
     "static/css/main.de704c1c.chunk.css",
     "static/js/main.24f72138.chunk.js"
